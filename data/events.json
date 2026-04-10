@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Hackathon 2026 - Code for Change",
+    "description": "A 36-hour hackathon where students build solutions for real-world problems. Prizes worth ₹1,50,000. Open to all engineering branches.",
+    "category": "Hackathon",
+    "date": "2026-04-25",
+    "link": "https://devfolio.co/hackathons"
+  },
+  {
+    "title": "Machine Learning Workshop",
+    "description": "Hands-on workshop covering supervised learning, neural networks, and model deployment with scikit-learn and TensorFlow.",
+    "category": "Workshop",
+    "date": "2026-04-28",
+    "link": "https://www.meetup.com/topics/machine-learning/"
+  },
+  {
+    "title": "Technical Talk: Future of Generative AI",
+    "description": "Industry expert talk on large language models, diffusion models, and practical applications in software development.",
+    "category": "Talk",
+    "date": "2026-04-30",
+    "link": "https://www.eventbrite.com/d/online/generative-ai/"
+  },
+  {
+    "title": "Robotics Competition – RoboVIT 2026",
+    "description": "Annual robotics competition with line-following, maze-solving, and freestyle robot battle categories. Teams of 2-4 students.",
+    "category": "Competition",
+    "date": "2026-05-02",
+    "link": "https://www.robocon.in/"
+  },
+  {
+    "title": "Cybersecurity CTF Challenge",
+    "description": "Capture The Flag competition covering web security, cryptography, reverse engineering, and forensics. All skill levels welcome.",
+    "category": "Hackathon",
+    "date": "2026-05-05",
+    "link": "https://ctftime.org/"
+  },
+  {
+    "title": "Data Science Bootcamp",
+    "description": "3-day intensive bootcamp on data analysis, visualization with Python, pandas, matplotlib, and building ML pipelines.",
+    "category": "Workshop",
+    "date": "2026-05-08",
+    "link": "https://www.kaggle.com/learn"
+  },
+  {
+    "title": "Inter-College Cricket Tournament",
+    "description": "T20 cricket tournament between VIT colleges. Registrations open for teams of 15 players.",
+    "category": "Sports",
+    "date": "2026-05-10",
+    "link": "https://www.vitchennai.ac.in/events"
+  },
+  {
+    "title": "Cultural Fest – Riviera 2026",
+    "description": "VIT's annual cultural festival featuring music, dance, drama, art exhibitions, and celebrity performances.",
+    "category": "Cultural",
+    "date": "2026-05-14",
+    "link": "https://riviera.vit.ac.in"
+  },
+  {
+    "title": "Cloud Computing Seminar: AWS & Azure",
+    "description": "Deep dive into cloud architecture, serverless functions, containerization with Docker, and Kubernetes orchestration.",
+    "category": "Seminar",
+    "date": "2026-05-16",
+    "link": "https://aws.amazon.com/events/"
+  },
+  {
+    "title": "Entrepreneurship Meetup",
+    "description": "Connect with student entrepreneurs, startup founders, and investors. Pitch your ideas and get mentorship.",
+    "category": "Meetup",
+    "date": "2026-05-18",
+    "link": "https://www.meetup.com/topics/entrepreneurship/"
+  },
+  {
+    "title": "Web Development Bootcamp",
+    "description": "Full-stack web development crash course covering React, Node.js, REST APIs, and deployment on Vercel and AWS.",
+    "category": "Workshop",
+    "date": "2026-05-20",
+    "link": "https://www.freecodecamp.org/"
+  },
+  {
+    "title": "Open Source Contribution Sprint",
+    "description": "Guided session to make your first open-source contribution to popular Python and JavaScript repositories.",
+    "category": "Workshop",
+    "date": "2026-05-22",
+    "link": "https://goodfirstissue.dev/"
+  },
+  {
+    "title": "Photography Exhibition – LensVIT",
+    "description": "Annual photography exhibition showcasing student work across nature, architecture, street, and portrait categories.",
+    "category": "Cultural",
+    "date": "2026-05-24",
+    "link": "https://www.vitchennai.ac.in/events"
+  },
+  {
+    "title": "Blockchain and Web3 Workshop",
+    "description": "Introduction to blockchain fundamentals, smart contract development with Solidity, and NFT creation.",
+    "category": "Workshop",
+    "date": "2026-05-26",
+    "link": "https://ethereum.org/en/developers/"
+  },
+  {
+    "title": "Badminton Championship",
+    "description": "Singles and doubles badminton championship open to all VIT students. Knockout format across 3 days.",
+    "category": "Sports",
+    "date": "2026-05-28",
+    "link": "https://www.vitchennai.ac.in/events"
+  },
+  {
+    "title": "AI in Healthcare Seminar",
+    "description": "How artificial intelligence is transforming diagnostics, drug discovery, and personalized medicine.",
+    "category": "Seminar",
+    "date": "2026-06-01",
+    "link": "https://www.eventbrite.com/d/online/ai-healthcare/"
+  },
+  {
+    "title": "Game Development Workshop – Unity & Godot",
+    "description": "Build your first 2D and 3D game using Unity and Godot. Cover physics, scripting, asset management, and publishing.",
+    "category": "Workshop",
+    "date": "2026-06-04",
+    "link": "https://unity.com/learn"
+  },
+  {
+    "title": "Debate Championship: Tech & Ethics",
+    "description": "Formal debate competition on topics like AI regulation, data privacy, and the future of automation and jobs.",
+    "category": "Cultural",
+    "date": "2026-06-07",
+    "link": "https://www.vitchennai.ac.in/events"
+  },
+  {
+    "title": "DevOps & CI/CD Pipeline Workshop",
+    "description": "Practical session on GitHub Actions, Jenkins, Docker, and setting up automated test and deployment pipelines.",
+    "category": "Workshop",
+    "date": "2026-06-10",
+    "link": "https://github.com/features/actions"
+  },
+  {
+    "title": "Mathematics Olympiad – VIT MathFest 2026",
+    "description": "Annual math competition covering number theory, combinatorics, algebra, and calculus. Open to all UG students.",
+    "category": "Competition",
+    "date": "2026-06-14",
+    "link": "https://www.vitchennai.ac.in/events"
+  }
+]
